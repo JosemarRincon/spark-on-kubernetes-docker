@@ -1,5 +1,6 @@
 # spark-on-kubernetes-docker
 Spark on Kubernetes infrastructure Docker images repo. Used as defaults for [spark-cluster](https://github.com/jahstreet/spark-on-kubernetes-helm/tree/master/charts/spark-cluster) Helm chart.
+
 Feito novo build utilizando o código modificado nesse repo: [rangnar14](https://github.com/rangnar14/incubator-livy/tree/feature/ingress-api-update)
 
 Realizado teste de deploy no kubernetes 1.29 Apache **Livy 0.8.0-incubating-spark_3.0.1_2.12-hadoop_3.2.0_cloud agora** funcionando como esperado.
